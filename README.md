@@ -16,5 +16,6 @@ Uses the configuration file created by the AWS CLI E.G
 `pipenv run "python serviceapp/servicemanager.py <command>
 <--project=PROJECT>"`
 
-*command* is list, start, or stop
+*command* is instances, volumes, or snapshots
+*subcommand* - depends on command
 *project is option
