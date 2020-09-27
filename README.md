@@ -13,4 +13,4 @@ Uses the configuration file created by the AWS CLI E.G
 
 # To run application
 
-`pipenv run "python shotty/shotty.py"`
+`pipenv run "python serviceapp/servicemanager.py"`
