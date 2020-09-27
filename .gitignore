@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#Credentials
+new_user_credentials.csv
+new_user_credentials.csvZone.Identifier
+awsservicemanager.pem
+.~lock.new_user_credentials.csv#
+new_user_credentials.csv:Zone.Identifier
