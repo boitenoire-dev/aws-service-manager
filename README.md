@@ -13,4 +13,8 @@ Uses the configuration file created by the AWS CLI E.G
 
 # To run application
 
-`pipenv run "python serviceapp/servicemanager.py"`
+`pipenv run "python serviceapp/servicemanager.py <command>
+<--project=PROJECT>"`
+
+*command* is list, start, or stop
+*project is option
